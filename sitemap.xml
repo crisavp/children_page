@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://toha.netlify.app/</loc>
+    <lastmod>2020-06-08T06:20:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/</loc>
+    <lastmod>2020-06-08T06:20:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/site-parameters/</loc>
+    <lastmod>2020-06-08T06:20:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/</loc>
+    <lastmod>2020-06-08T06:20:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/about-section/</loc>
+    <lastmod>2020-06-08T06:20:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/skills-section/</loc>
+    <lastmod>2020-06-08T06:20:45+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/experience-section/</loc>
+    <lastmod>2020-06-08T06:20:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/project-section/</loc>
+    <lastmod>2020-06-08T06:20:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/recent-posts-section/</loc>
+    <lastmod>2020-06-08T06:20:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/configuration/achievements-section/</loc>
+    <lastmod>2020-06-08T06:20:30+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/category/</loc>
+    <lastmod>2020-06-08T06:15:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/category/creating-category/</loc>
+    <lastmod>2020-06-08T06:15:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/</loc>
+    <lastmod>2020-06-08T06:15:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/category/sub-category/creating-sub-category/</loc>
+    <lastmod>2020-06-08T06:15:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/category/sub-category/</loc>
+    <lastmod>2020-06-08T06:15:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/front-matter/</loc>
+    <lastmod>2020-06-08T06:15:45+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/markdown-syntax-guide/</loc>
+    <lastmod>2020-06-08T06:15:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/math-type-settings/</loc>
+    <lastmod>2020-06-08T06:15:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/rich-content/</loc>
+    <lastmod>2020-06-08T06:15:30+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/writing-posts/using-emoji/</loc>
+    <lastmod>2020-06-08T06:15:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/short-codes/alert/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/short-codes/img/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/short-codes/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/short-codes/split/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/short-codes/vs/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/deploy-site/</loc>
+    <lastmod>2020-06-08T06:00:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/deploy-site/github-pages/</loc>
+    <lastmod>2020-06-08T06:00:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/deploy-site/netlify/</loc>
+    <lastmod>2020-06-08T06:00:15+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/customizing/</loc>
+    <lastmod>2020-06-07T06:20:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/posts/customizing/add-section/</loc>
+    <lastmod>2020-06-07T06:20:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toha.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
