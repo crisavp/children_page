@@ -305,6 +305,13 @@ mark {
   text-align: right;
 }
 
+/* Social Media */
+.social-link a {
+  font-size: 1.8rem;
+  padding: 0.5rem;
+  color: #3c4858;
+}
+
 /* ============= Device specific fixes ======= */
 
 /* Large screens such as TV */
