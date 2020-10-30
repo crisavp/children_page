@@ -21,6 +21,9 @@
   background: #f9fafc;
   height: 100vh;
   transition: all ease-out 0.3s;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  font-size: 1.1rem;
 }
 
 .sidebar-tree {
@@ -77,12 +80,12 @@ ul {
 
 .tree li a.active {
   display: inline;
-  color: #2098d1;
+  color: #009976;
 }
 
 .tree li a:hover {
   margin-left: 3px;
-  color: #2098d1;
+  color: #009976;
   transition: all 0.3s ease-out;
 }
 
@@ -204,6 +207,9 @@ a.focused {
     max-width: 30%;
     margin-right: 0.5rem;
     transition: all ease-out 0.3s;
+  }
+  .sidebar{
+    padding-top: 2.8rem;
   }
 }
 

@@ -1,6 +1,7 @@
 body {
   background-color: #e5e9f2;
   position: relative;
+  font-family: 'Martel', serif;
 }
 .read-area {
   background-color: #f9fafc;
@@ -8,30 +9,45 @@ body {
 
 .wrapper {
   display: flex;
-  padding: 0;
+  padding: 0; 
   margin: 0;
   width: 100%;
   justify-content: space-between;
   position: relative;
 }
 
+.position{
+  position: fixed;
+}
+
 .content-section {
   flex: 60%;
-  max-width: 60%;
+  max-width: 100%;
   order: 2;
   /* background-color: lightseagreen; */
   padding: 0;
   position: relative;
   padding-left: 1rem;
   padding-right: 1rem;
+  top: 2.2rem;
 }
 .content {
   background: #e5e9f2;
 }
+/* hero area */
+.caption {
+  position: absolute;
+  bottom: 12px;
+  right: 22px;
+  color: #fff;
+  font-family: 'Satisfy', cursive;
+  font-size: 4rem;
+}
+
 .toc-section {
   flex: 20%;
   order: 3;
-  max-width: 20%;
+  max-width: 0%;
   /* background-color: lightpink; */
   transition: all ease-out 0.5s;
 }
@@ -97,7 +113,7 @@ body {
 .page-content {
   width: 100%;
   position: relative;
-  top: -4.5rem;
+  top: 1rem;
   padding: 15px;
 }
 
@@ -127,6 +143,8 @@ body {
 
 .post-content {
   padding: 15px;
+  letter-spacing: .5px;
+  line-height: 1.8;
 }
 
 .post-content h1,
@@ -260,6 +278,7 @@ mark {
 .next-prev-navigator {
   padding-left: 10px;
   padding-right: 10px;
+  margin-bottom: 4rem;
 }
 
 .next-prev-navigator a {
@@ -346,12 +365,15 @@ mark {
     max-width: 100%;
     order: 2;
     overflow: hidden;
+    top: 5rem;
   }
   .content {
     overflow: hidden;
   }
   .container {
     max-width: 100%;
+    margin-top: -0.5rem;
+    margin-bottom: -0.5rem;
   }
 
   .toc-section {
@@ -399,6 +421,10 @@ mark {
   #disqus_thread,
   .dsq-brlink {
     padding: 5px;
+  }
+
+  .caption{
+    font-size: 2rem;
   }
 }
 
@@ -501,6 +527,9 @@ mark {
   #disqus_thread,
   .dsq-brlink {
     padding: 5px;
+  }
+  .caption{
+    font-size: 2rem;
   }
 }
 

@@ -15,7 +15,7 @@ Yellow:  #FFC212
 
 body {
   background-color: #f9fafc;
-  font-family: "Muli";
+  font-family: 'Martel', serif;
 }
 
 h1,
@@ -58,8 +58,8 @@ a:hover {
 
 .btn-dark:hover,
 .btn-dark:focus {
-  background-color: #248aaa;
-  border-color: #248aaa;
+  background-color: #009976;
+  border-color: #009976;
   transition: all 0.3s ease-out;
 }
 
@@ -139,7 +139,7 @@ img.right {
 }
 
 .card .card-head {
-  height: 172px;
+  height: 200px;
   -o-object-fit: cover;
      object-fit: cover;
   overflow: hidden;
@@ -274,6 +274,9 @@ img.right {
   .achievements-section {
     padding-left: 0;
     padding-right: 0;
+  }
+  .footer{
+    margin-top: 2rem;
   }
 }
 
