@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customs on </title>
-    <link>https://wonderful-babbage-6ab561.netlify.app/custom/</link>
+    <link>https://www.emprendedoresquito.com/custom/</link>
     <description>Recent content in Customs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 29 Sep 2020 17:26:24 -0500</lastBuildDate>
     
-	<atom:link href="https://wonderful-babbage-6ab561.netlify.app/custom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.emprendedoresquito.com/custom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Donacion</title>
-      <link>https://wonderful-babbage-6ab561.netlify.app/custom/donacion/</link>
+      <link>https://www.emprendedoresquito.com/custom/donacion/</link>
       <pubDate>Tue, 29 Sep 2020 17:26:24 -0500</pubDate>
       
-      <guid>https://wonderful-babbage-6ab561.netlify.app/custom/donacion/</guid>
+      <guid>https://www.emprendedoresquito.com/custom/donacion/</guid>
       <description>Hola</description>
     </item>
     
