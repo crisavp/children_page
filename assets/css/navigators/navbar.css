@@ -66,9 +66,9 @@
 
 .final-navbar .navbar-nav .active,
 .final-navbar li a:hover {
-  color: #009976;
+  color: #901f61;
   transition: all 0.3s ease-out;
-  border-bottom: 2px solid #009976;
+  border-bottom: 2px solid #901f61;
   background: rgb(2, 0, 36);
   background: linear-gradient(
     90deg,

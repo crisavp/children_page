@@ -58,18 +58,18 @@ a:hover {
 
 .btn-dark:hover,
 .btn-dark:focus {
-  background-color: #009976;
-  border-color: #009976;
+  background-color: #901f61;
+  border-color: #901f61;
   transition: all 0.3s ease-out;
 }
 
 .btn-outline-info {
-  color: #009976 !important;
-  border-color: #009976 !important;
+  color: #901f61 !important;
+  border-color: #901f61 !important;
 }
 
 .btn-outline-info:hover {
-  background-color: #009976 !important;
+  background-color: #901f61 !important;
   color: #e5e9f2 !important;
 }
 
@@ -168,7 +168,7 @@ img.right {
 
 .footer {
   color: #FFF !important;
-  background-color: #009976;
+  background-color: #901f61;
   position: relative;
   z-index: 9999;
 }

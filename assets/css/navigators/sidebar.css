@@ -80,12 +80,12 @@ ul {
 
 .tree li a.active {
   display: inline;
-  color: #009976;
+  color: #901f61;
 }
 
 .tree li a:hover {
   margin-left: 3px;
-  color: #009976;
+  color:#901f61;
   transition: all 0.3s ease-out;
 }
 
